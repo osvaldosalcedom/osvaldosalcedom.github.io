@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/aldagin
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://osvaldosalcedom.github.io
+  * I am aldagin (https://keybase.io/aldagin) on keybase.
+  * I have a public key ASDW7DTMnxU30b5icDbGZCavNWqAF-X0AohexiKs_b7SwAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012050e51eadb51631880cf1557370b604ac0f78bc44133e2357ca973b49eaced6570a",
+      "host": "keybase.io",
+      "kid": "0120d6ec34cc9f1537d1be627036c66426af356a8017e5f402885ec622acfdbed2c00a",
+      "uid": "8c5f59f65b8a51628748cb0f2cae6319",
+      "username": "aldagin"
+    },
+    "merkle_root": {
+      "ctime": 1641584601,
+      "hash": "2ee69d6cf6c8806dc85ee8334b7b8a0bbaf66f32eeb9203e2031dca638bc327a05f3bad73ded26d2e2a307b7c507b8b2e8d8f3261a7f8ba071d115f67e455b14",
+      "hash_meta": "d583995d4fcfb39c1faa7199ebccf817b686b6fdb4c87a24c0303aa0dc9cd891",
+      "seqno": 21584141
+    },
+    "service": {
+      "entropy": "fyWSFlqdSudP5+HGlRmZJzb9",
+      "hostname": "osvaldosalcedom.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.9.0"
+  },
+  "ctime": 1641584666,
+  "expire_in": 504576000,
+  "prev": "4aa5f9a264050435e81bdfb96e503b8847e3a0fc7a10773faad70f2be6fcd5a2",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg1uw0zJ8VN9G+YnA2xmQmrzVqgBfl9AKIXsYirP2+0sAKp3BheWxvYWTESpcCDcQgSqX5omQFBDXoG9+5blA7iEfjoPx6EHc/qtcPK+b81aLEIJ0WLU7u/1/jmjJWnW4acq4/PErUhYkE/XZB4FmfSbAjAgHCo3NpZ8RAFPqa5yTI/nD61JYZgozHZij5qBxSx3wzGgxQjpdXkzifT8WELPnTmqPl7r7jpGVHWLSWb8WjgeAUQVzSk1x4DqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIB26Dt19i660VdPI2XshNnstz9rQ+qpBFAK20E7b0USyo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/aldagin
+
+==================================================================
